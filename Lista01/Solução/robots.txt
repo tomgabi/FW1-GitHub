@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /imag*/ #bloqueiar o acesso a todos os subdiretórios que comecem com "imag"
+Disallow: /imag*/ #bloquear o acesso a todos os subdiretÃ³rios que comecem com "imag"
